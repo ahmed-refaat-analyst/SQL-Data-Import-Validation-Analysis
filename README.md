@@ -1,7 +1,6 @@
 # 📊 SQL: Data Import, Validation & Analysis
 
 ![SQL Dashboard 1](SQL1.jpeg)
-![SQL Dashboard 2](SQL2.jpeg)
 ![SQL Dashboard 3](SQL3.jpeg)
 
 ## 🎥 Demo Video
